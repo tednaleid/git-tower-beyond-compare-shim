@@ -4,15 +4,15 @@
 <array>
     <dict>
         <key>ApplicationIdentifier</key>
-        <string>com.scootersoftware.beyondcompare</string>
+        <string>com.ScooterSoftware.BeyondCompare</string>
         <key>ApplicationName</key>
-        <string>beyondcompare</string>
+        <string>Beyond Compare</string>
         <key>DisplayName</key>
         <string>Beyond Compare</string>
         <key>LaunchScript</key>
         <string>beyondcompare.sh</string>
         <key>Identifier</key>
-        <string>beyondcompare</string>
+        <string>BeyondCompare</string>
         <key>SupportsMergeTool</key>
         <true/>
     </dict>
