@@ -1,3 +1,5 @@
+UPDATE: As of Tower 2.0.5, there is native support for Beyond Compare 2, so it should not be necessary to use this shim anymore.  
+
 This set of shim files enables the git [Tower.app](http://www.git-tower.com/) application to use [Beyond Compare 4](http://www.scootersoftware.com/beta.php?zz=beta4_dl) (currently in beta) as a diff and merge tool.  Has support for Tower 2, if you're still using the original version of Tower, you'll want to checkout [this tag](https://github.com/tednaleid/git-tower-beyond-compare-shim/tree/tower_1).
 
 Beyond Compare 4 has full 3-way merging in a 4 pane layout.
